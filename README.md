@@ -6,7 +6,7 @@
 
 ## 🌟 Features
 
-- **Increased Coin Size**: Enlarges the size of the coins to **300%** of their original size.
+- **Increased Coin Size**: Enlarges the size of the coins to **500%** of their original size.
 - **Enhanced Hitbox**: The hitbox automatically scales with the larger size, ensuring consistent and reliable gameplay.
 - **Streamlined Design**: No configuration or additional dependencies required—just plug and play!
 
